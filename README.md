@@ -93,7 +93,7 @@ Controls below 80% create remediation tasks automatically
 
 Python Code (YOUR FINAL WORKING VERSION)
 ```python
-Copy code
+
 tasks = []
 
 snapshot = self.get_key("compliance_snapshot", {})
@@ -143,8 +143,7 @@ Shuffle renders a human-readable document
 Shows compliance %, gaps, and tasks
 
 ```Example Output
-less
-Copy code
+
 ISO 27001 Compliance Summary
 
 A.5 – Policies: 70%
